@@ -1,7 +1,6 @@
 
 
-# JAIMP - Java Infinite Ambient Music Platformer
-
+# JAIMP - Just Another Infinite Musical Platformer
 **JAIMP** is an endless, procedurally generated platformer written entirely in Java. Landing on platforms dynamically generates calming synth music(lol), creating a unique audio-visual experience with every playthrough. Immerse yourself in a tranquil world crafted entirely through code—no external assets required.
 
 ## Key Features

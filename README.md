@@ -13,7 +13,7 @@
 
 ## Gameplay Overview
 
-Explore infinite platforms, evade hazards, and generate soothing ambient synth music as you progress. The adaptive audio engine ensures each session is a unique musical journey based on your platform interactions.
+Explore infinite platforms, evade hazards, and generate soothing ambient synth music as you progress. The adaptive audio engine ensures each session is a unique musical journey based on your platform interactions. (lol)
 
 ## Controls
 

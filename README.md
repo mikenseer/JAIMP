@@ -29,6 +29,8 @@ Explore infinite platforms, evade hazards, and generate soothing ambient synth m
 
 ![Screenshot 2025-06-02 215529](https://github.com/user-attachments/assets/1233f8eb-1c79-41a6-b34e-5078657ff3df)
 
+![Screenshot 2025-06-02 222311](https://github.com/user-attachments/assets/7d201f70-8dd9-4b0d-9d9d-881314e13be4)
+
 ![Screenshot 2025-06-02 222129](https://github.com/user-attachments/assets/5493f245-5419-4299-af11-6626eb3c764a)
 
 
